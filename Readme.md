@@ -2,7 +2,7 @@ This repo contains the basic radiation plotting tool for use with the Radiation 
 
 To get it working with the repo you have you will need to:
 
-1. Install the radiation layer in your catkin workspace 
+1. Install the radiation layer in the catkin workspace where the radiation plugin exists. 
 
 2. In the radiation_demonstrator launch file for the radiation plugin you will find a launch file commented out called radmap.launch. This needs uncommenting.
 
